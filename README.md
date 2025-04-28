@@ -2,7 +2,7 @@
 
 
 ## 📍 À propos de moi
-- **Localisation** : Saverne, Grand Est, France
+- **Localisation** : Grand Est, France
 
 
 ## 🎯 Objectifs Professionnels
