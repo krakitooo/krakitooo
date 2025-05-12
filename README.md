@@ -12,7 +12,6 @@
 
 ## 💻 Compétences & Technologies
 - Développement et programmation
-- Technologies émergentes
 - Innovation informatique
 
 
