@@ -6,8 +6,7 @@
 
 
 ## 🎯 Objectifs Professionnels
-- **Stage** : Recherche un stage de 2 à 3 mois à partir de **Juin 2025**
-- **Alternance** : Recherche une alternance à partir de la rentrée **2025/2026**
+- **Alternance** : Recherche une alternance dès que possible
 
 
 ## 💻 Compétences & Technologies
